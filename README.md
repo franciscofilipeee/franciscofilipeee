@@ -1,7 +1,8 @@
-<h1 align="center">Olá, me chamo Francisco Filipe!</h1>
+<h1 align="center">Hello, i'm Francisco Filipe!</h1>
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+https://skillicons.dev/icons?i=js
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthursns&show_icons=true&locale=en&layout=compact" alt="arthursns" /></p>
 
