@@ -14,7 +14,7 @@
 <h3 align="left">Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,discord,figma,gcp,git,github,gitlab,npm,mysql,pr,ps,vscode" />
+    <img src="https://skillicons.dev/icons?i=ae,discord,figma,git,github,npm,mysql,pr,ps,vscode" />
   </a>
 </p>
 
