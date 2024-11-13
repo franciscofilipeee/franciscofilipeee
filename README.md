@@ -1,11 +1,26 @@
 <h1 align="center">Hello, i'm Francisco Filipe!</h1>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2>I'm a web developer</h2>
 
-https://skillicons.dev/icons?i=js
+<hr>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franciscofilipeee&show_icons=true&locale=en&layout=compact" alt="franciscofilipeee" /></p>
+<h3 align="left">Languages and Frameworks:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,laravel,php,cpp,cs" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=franciscofilipeee&show_icons=true&locale=en" alt="franciscofilipeee" /></p>
+<h3 align="left">Tools:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ae,discord,figma,gcp,git,github,gitlab,npm,mysql,pr,ps,vscode" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franciscofilipeee" alt="franciscofilipeee" /></p>
+<h3 align="left">Systems:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mint,ubuntu,windows" />
+  </a>
+</p>
