@@ -3,7 +3,7 @@
 <h3 align="left">Languages and Frameworks👨‍💻:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,laravel,php,cpp,cs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,laravel,php,cpp,cs,java" />
   </a>
 </p>
 
