@@ -17,6 +17,6 @@
 <h3 align="left">Systems💻:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,windows,mac" />
+    <img src="https://skillicons.dev/icons?i=linux,windows" />
   </a>
 </p>
