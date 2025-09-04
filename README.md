@@ -3,7 +3,7 @@
 <h3 align="left">Languages and Frameworks👨‍💻:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,bootstrap,laravel,php" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,bootstrap,laravel,php,java" />
   </a>
 </p>
 
