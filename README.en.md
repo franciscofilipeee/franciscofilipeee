@@ -22,16 +22,6 @@ I'm currently studying **Software Engineering at PUC Minas** and completed a **T
 
 My goal is to keep building consistent solutions, exploring infrastructure best practices, and learning from new challenges every day.
 
-```ts
-const francisco = {
-  education: ["Software Engineering — PUC Minas", "Technical Degree in IT — POLIMIG"],
-  interests: ["cars", "infrastructure", "technology", "programming"],
-  focus: ["web", "mobile", "backend", "cloud"],
-  philosophy: "Simple, structured code focused on scalable, high-performance solutions that deliver market value.",
-  alwaysLearning: true,
-};
-```
-
 ## 🚀 Technologies
 
 <details open>

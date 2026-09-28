@@ -22,16 +22,6 @@ Atualmente, estudo **Engenharia de Software na PUC Minas** e concluí o curso **
 
 Meu objetivo é continuar construindo soluções consistentes, explorando boas práticas de infraestrutura e aprendendo todos os dias com novos desafios.
 
-```ts
-const francisco = {
-  formacao: ["Engenharia de Software — PUC Minas", "Técnico em Informática — POLIMIG"],
-  interesses: ["carros", "infraestrutura", "tecnologia", "programação"],
-  foco: ["web", "mobile", "backend", "cloud"],
-  filosofia: "Código simples, estruturado, com foco em soluções escaláveis, performáticas e que agregam valor no mercado.",
-  aprendendoSempre: true,
-};
-```
-
 ## 🚀 Tecnologias
 
 <details open>
