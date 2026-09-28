@@ -81,12 +81,6 @@ Meu objetivo é continuar construindo soluções consistentes, explorando boas p
 
 </details>
 
-## 📊 Atividade no GitHub
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=franciscofilipeee&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Francisco Filipe" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscofilipeee&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas por Francisco Filipe" />
-</div>
 
 ## 🤝 Vamos conversar?
 

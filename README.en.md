@@ -81,13 +81,6 @@ My goal is to keep building consistent solutions, exploring infrastructure best 
 
 </details>
 
-## 📊 GitHub Activity
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=franciscofilipeee&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Francisco Filipe's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscofilipeee&layout=compact&theme=tokyonight&hide_border=true" alt="Francisco Filipe's most used languages" />
-</div>
-
 ## 🤝 Let's talk?
 
 If you have an idea, a technical challenge, or would simply like to exchange experiences about development, feel free to get in touch.
